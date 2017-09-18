@@ -13,6 +13,9 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
+
+![666.png]({{site.baseurl}}/666.png)
+
 ### Header 3
 
 - Bulleted
