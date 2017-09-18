@@ -1,3 +1,6 @@
+title: This is my title
+layout: post
+--
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wroniasty/tt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -14,7 +17,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 
-![666.png]({{site.baseurl}}/666.png)
+
 
 ### Header 3
 
