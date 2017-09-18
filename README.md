@@ -1,9 +1,12 @@
 ---
-title: This is my title
+title: Tournament.Tools user docs
 layout: post
+published: true
 ---
 
-## Welcome to GitHub Pages
+## HowTos
+
+![]({{site.baseurl}}/sport-balls_23-2147511405.jpg)
 
 You can use the [editor on GitHub](https://github.com/wroniasty/tt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
